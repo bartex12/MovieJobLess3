@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobLesson3</string>
+    <string name="display">Дисплей: ширина = %d  высота = %d</string>
+    <string name="coord">Координаты: Х = %.0f   Y = %.0f</string>
+</resources>
